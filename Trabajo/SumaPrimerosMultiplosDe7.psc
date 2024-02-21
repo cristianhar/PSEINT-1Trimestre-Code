@@ -10,6 +10,6 @@ Algoritmo SumaPrimerosMultiplosDe7
     Fin Para
 	
 
-    Escribir "La suma de los primeros 9 múltiplos de 7 es:", suma
+    Escribir "La suma de los primeros 9 mÃºltiplos de 7 es:", suma
 	
 FinAlgoritmo
