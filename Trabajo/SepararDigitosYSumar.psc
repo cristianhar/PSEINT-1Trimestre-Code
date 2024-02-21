@@ -8,7 +8,7 @@ Algoritmo SepararDigitosYSumar
     Leer a
 	
 
-    Escribir "Los dígitos de izquierda a derecha son:"
+    Escribir "Los dÃ­gitos de izquierda a derecha son:"
     suma <- 0
     Mientras a > 0 Hacer
         digito <- a % 10
@@ -18,6 +18,6 @@ Algoritmo SepararDigitosYSumar
     Fin Mientras
 	
 
-    Escribir "La suma de los dígitos es:", suma
+    Escribir "La suma de los dÃ­gitos es:", suma
 	
 FinAlgoritmo
