@@ -1,20 +1,20 @@
 Algoritmo MultiplosAscendenteDescendente
 	
 
-    Escribir "Ingresa el primer número entero:"
+    Escribir "Ingresa el primer nÃºmero entero:"
     Leer numero1
 	
-    Escribir "Ingresa el segundo número entero:"
+    Escribir "Ingresa el segundo nÃºmero entero:"
     Leer numero2
 	
   
-    Escribir "Los primeros 10 múltiplos de forma ascendente:"
+    Escribir "Los primeros 10 mÃºltiplos de forma ascendente:"
     Para i <- 1 Hasta 10 Con Paso 1 Hacer
         Escribir numero1 * i, " - ", numero2 * i
     Fin Para
 	
 
-    Escribir "Los primeros 10 múltiplos de forma descendente:"
+    Escribir "Los primeros 10 mÃºltiplos de forma descendente:"
     Para i <- 10 Hasta 1 Con Paso -1 Hacer
         Escribir numero1 * i, " - ", numero2 * i
     Fin Para
