@@ -4,11 +4,11 @@ Algoritmo SiguientePrimo
     Definir esPrimo Como Logico
     Definir primonext, n, divisor, encontrado Como Entero
 	
-    // Solicitar al usuario ingresar un número
-    Escribir "Ingresa un número:"
+    // Solicitar al usuario ingresar un nÃºmero
+    Escribir "Ingresa un nÃºmero:"
     Leer n
 	
-    // Encontrar el primer número primo que le sigue al número ingresado
+    // Encontrar el primer nÃºmero primo que le sigue al nÃºmero ingresado
     primonext <- n + 1
     encontrado <- 0
 	
@@ -23,13 +23,13 @@ Algoritmo SiguientePrimo
         Fin Mientras
 		
         Si esPrimo Entonces
-            encontrado <- 1 // Hemos encontrado el primer número primo superior
+            encontrado <- 1 // Hemos encontrado el primer nÃºmero primo superior
         Sino
             primonext <- primonext + 1
         Fin Si
     Fin Mientras
 	
-    // Mostrar el primer número primo que le sigue
-    Escribir "El primer número primo que le sigue a ", n, " es:", primonext
+    // Mostrar el primer nÃºmero primo que le sigue
+    Escribir "El primer nÃºmero primo que le sigue a ", n, " es:", primonext
 	
 FinAlgoritmo
