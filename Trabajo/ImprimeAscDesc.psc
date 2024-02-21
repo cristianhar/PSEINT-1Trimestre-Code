@@ -16,8 +16,8 @@ Algoritmo ImprimeAscDesc
 	Escribir 'Mensaje4:', valor3, '-', valor4
 FinAlgoritmo
 
-Función Intercambiar(valor1,valor2)
+FunciÃ³n Intercambiar(valor1,valor2)
 	Aux <- valor1
 	valor1 <- valor2
 	valor2 <- Aux
-FinFunción
+FinFunciÃ³n
