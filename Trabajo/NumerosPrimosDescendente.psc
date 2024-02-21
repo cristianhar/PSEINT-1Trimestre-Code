@@ -25,7 +25,7 @@ Algoritmo NumerosPrimosDescendente
     Fin Mientras
 	
   
-    Escribir "Los primeros ", n, " números primos en orden descendente son:"
+    Escribir "Los primeros ", n, " nÃºmeros primos en orden descendente son:"
     i <- contador
     Mientras i >= 1 Hacer
         Escribir primos[i]
