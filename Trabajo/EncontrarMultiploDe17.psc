@@ -7,6 +7,6 @@ Algoritmo EncontrarMultiploDe17
     Hasta Que (a MOD 17) == 0
 	
 
-    Escribir "¡Encontraste un múltiplo de 17! El número es:", a
+    Escribir "Â¡Encontraste un mÃºltiplo de 17! El nÃºmero es:", a
 	
 FinAlgoritmo
