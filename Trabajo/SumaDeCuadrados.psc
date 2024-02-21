@@ -20,7 +20,7 @@ Algoritmo SumadCuadrados
 		Si (aux^2==SumaCuadrados) Entonces
 			Escribir 'La suma de los cuadrados de los dos primeros valores equivale al cuadrado del entero mayor : ', SumaCuadrados
 		SiNo
-			Escribir 'La afirmación es falsa.'
+			Escribir 'La afirmaciÃ³n es falsa.'
 		FinSi
 	SiNo
 		Escribir 'Los valores ingresados deben ser enteros positivos.'
