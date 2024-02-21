@@ -9,5 +9,5 @@ Algoritmo ImprimeInverso
 		numeroInverso <- numeroInverso*10+digito
 		largo <- largo+1
 	FinMientras
-	Escribir 'El número en orden inverso es:', numeroInverso
+	Escribir 'El nÃºmero en orden inverso es:', numeroInverso
 FinAlgoritmo
