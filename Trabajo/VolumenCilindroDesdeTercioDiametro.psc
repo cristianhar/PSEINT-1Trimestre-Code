@@ -5,7 +5,7 @@ Algoritmo VolumenCilindroDesdeTercioDiametro
 	radio <- 0 
 	volumen<- 0
 	
-    Escribir "Ingresa el tercio del diámetro de la circunferencia:"
+    Escribir "Ingresa el tercio del diÃ¡metro de la circunferencia:"
     Leer tercioDiametro
 	
     radio <- tercioDiametro / 3
