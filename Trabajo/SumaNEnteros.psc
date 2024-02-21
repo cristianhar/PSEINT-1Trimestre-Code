@@ -7,6 +7,6 @@ Algoritmo SumaNEnteros
  
     suma <- (N * (N + 1)) / 2
 
-    Escribir "La suma de los ", N, " números enteros positivos es:", suma
+    Escribir "La suma de los ", N, " nÃºmeros enteros positivos es:", suma
 	
 FinAlgoritmo
